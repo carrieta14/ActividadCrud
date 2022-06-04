@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ActividadCrud/static/css/main.bc85844b.css",
+    "main.js": "/ActividadCrud/static/js/main.c328466b.js",
+    "index.html": "/ActividadCrud/index.html",
+    "main.bc85844b.css.map": "/ActividadCrud/static/css/main.bc85844b.css.map",
+    "main.c328466b.js.map": "/ActividadCrud/static/js/main.c328466b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc85844b.css",
+    "static/js/main.c328466b.js"
+  ]
+}
